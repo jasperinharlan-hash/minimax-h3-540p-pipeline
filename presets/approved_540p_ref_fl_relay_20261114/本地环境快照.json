@@ -1,0 +1,39 @@
+{
+  "observed_at": "2026-11-15",
+  "source": "当前本地分享包快照；不是当日测试机器环境的独立历史证明",
+  "snapshot": {
+    "comfyui_commit": "ee71d5c4993f29086b27fde1629a945ae48425bf",
+    "easy_commit": "082121dcdffb16fa438bab63a88a438539f96af3",
+    "packages_observed_on_windows": {
+      "torch": "2.13.0+cu130",
+      "torchvision": "0.28.0+cu130",
+      "torchaudio": "2.11.0+cu130",
+      "comfy-kitchen": "0.2.34",
+      "comfy-aimdo": "0.5.3",
+      "transformers": "5.15.1",
+      "huggingface-hub": "1.28.0",
+      "safetensors": "0.8.0",
+      "av": "18.1.0",
+      "comfyui-frontend-package": "1.52.7"
+    },
+    "sampling": {
+      "model": "minimax_h3_ref2va_pruned_fp8_scaled.safetensors",
+      "lora": "minimax_h3_ref2v_turbo_4step_v0.1_comfyui_bf16.safetensors",
+      "scheduler": "beta",
+      "sampler": "euler",
+      "steps": 4,
+      "video_shift": 12.0,
+      "audio_shift": 3.0,
+      "resolution": [
+        960,
+        544
+      ],
+      "fps": 24,
+      "requested_seconds": 6,
+      "attention": "comfy kitchen attention"
+    },
+    "acceptance": "Producer accepted the local two-shot experiment, including this ordinary-reference first shot.",
+    "kaggle_execution_verified": false,
+    "note": "Snapshot records actual local versions; it is not a Linux dependency lock or proof of T4 compatibility."
+  }
+}

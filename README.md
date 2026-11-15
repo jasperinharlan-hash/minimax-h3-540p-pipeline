@@ -1,3 +1,13 @@
+## 最新保存：制作人已验收的双镜转身测试
+
+[进入完整配置与参考素材](presets/approved_540p_ref_fl_relay_20261114/README.md) · 测试日期2026-11-14，配置保存2026-11-15。
+
+普通Ref2VA参考首镜→真实背身尾帧→FL2VA接力第二镜，均为960×544、24fps、beta/Euler 4步、shift12/3。本次制作人接受轻微脱相；完整本地落盘核验分别197.573秒和175.166秒。Kaggle运行尚未实测。
+
+以下保留仓库原有方案说明；上面链接对应本次新保存的精确测试配置。
+
+---
+
 # MiniMax H3 540P Ref2VA + FL2VA Production Pipeline (RTX 5060 8GB + 16GB RAM)
 
 Verified, zero-melting, clear-audio, seamless shot-to-shot continuity pipeline for **ComfyUI + MiniMax H3** on **8GB VRAM / 16GB System RAM** hardware.

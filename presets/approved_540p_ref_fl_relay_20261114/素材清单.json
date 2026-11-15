@@ -1,0 +1,21 @@
+{
+  "ordinary_reference": {
+    "102": {
+      "file": "pencil_test_20261113/42a51a4f4ec3f64514cc987c.png",
+      "sha256": "42a51a4f4ec3f64514cc987c6b35713f664f2a6c9a701fc48bca96414ed42a71",
+      "role": "笨梨立绘"
+    },
+    "103": {
+      "file": "pencil_test_20261113/d98293cfab2e2a251a770253.png",
+      "sha256": "d98293cfab2e2a251a770253ac04a6d721d189c15f8400a4af9c043139cb096c",
+      "role": "暖光彩铅空背景"
+    }
+  },
+  "tail_relay": {
+    "101": {
+      "file": "h3_relay_20261114/e7fe1454317561662868e541.png",
+      "sha256": "e7fe1454317561662868e541732a9816e72f40abdbf8e8ca91935db4684d66e4",
+      "role": "第一镜真实背身尾帧"
+    }
+  }
+}
